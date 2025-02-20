@@ -64,19 +64,7 @@ Este es un resumen de los conceptos más importantes de Bootstrap 5, junto con e
 
 ---
 
-## 3. **Cómo Usar Bootstrap**
-
-### 3.1. **Instalación vía CDN**
-Agrega los siguientes enlaces en el `<head>` de tu HTML para usar Bootstrap desde un CDN.
-
----
-
-### 3.2. **Personalización**
-Puedes personalizar Bootstrap usando variables de Sass o sobrescribiendo estilos en tu propio archivo CSS.
-
----
-
-## 4. **Conclusión**
+## 3. **Conclusión**
 
 Bootstrap es una herramienta poderosa para crear interfaces web responsivas y modernas. Con este cheatsheet y los enlaces proporcionados, podrás acelerar tu desarrollo y aprovechar al máximo esta librería.
 
